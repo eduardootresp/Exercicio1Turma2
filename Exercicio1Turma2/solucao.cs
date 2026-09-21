@@ -59,7 +59,7 @@ namespace Exercicio1Turma2
             figura1.lado1 = 3.5;
             figura1.lado2 = 2;
 
-            Teste.DetalhesFigura(figura1);
+            Console.WriteLine(Teste.DetalhesFigura(figura1));
         }
     }
 }

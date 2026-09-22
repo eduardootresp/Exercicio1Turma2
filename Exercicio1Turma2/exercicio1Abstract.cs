@@ -68,17 +68,4 @@ namespace Exercicio1Turma2
         }
     }
 
-    public class Program
-    {
-        public static void Main()
-        {
-            Retangulo figura1 = new Retangulo();
-
-            figura1.cor = "Azul";
-            figura1.lado1 = 3.5;
-            figura1.lado2 = 2;
-
-            Console.WriteLine(Teste.DetalhesFigura(figura1));
-        }
-    }
 }

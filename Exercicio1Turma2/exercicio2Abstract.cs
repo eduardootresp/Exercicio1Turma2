@@ -32,10 +32,6 @@ namespace Exercicio1Turma2
     O método ExibirDescricao deverá retornar a frase "O futebol é um esporte praticado por X jogadores em cada time durante Y minutos", onde as informações X e Y devem ser os valores das propriedades preenchidas no construtor.
     */
 
-    public class Solution
-    {
-
-    }
 
     public abstract class EsporteBase
     {
